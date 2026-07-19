@@ -1,6 +1,6 @@
-# 📊 Business Sales Performance Dashboard – Power BI
+#  Business Sales Performance Dashboard – Power BI
 
-## 📌 Project Overview
+## Project Overview
 
 The **Business Sales Performance Dashboard** is an interactive data visualization project developed using **Microsoft Power BI**. The project analyzes business sales data and presents key performance indicators and insights through interactive dashboards.
 
@@ -8,7 +8,7 @@ The main objective of this project is to transform raw sales data into meaningfu
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze overall business sales and profit performance.
 - Track important KPIs such as Total Sales, Total Profit, Order Count, Customer Count, and Profit Margin.
@@ -20,7 +20,7 @@ The main objective of this project is to transform raw sales data into meaningfu
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Microsoft Power BI**
 - **Power Query**
@@ -91,7 +91,7 @@ The dashboard helps compare regional performance and understand how different cu
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 The dashboard enables users to:
 
@@ -105,7 +105,7 @@ The dashboard enables users to:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 1. Imported the sales dataset into Power BI.
 2. Reviewed and prepared the data for analysis.
@@ -118,7 +118,7 @@ The dashboard enables users to:
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 - Business Intelligence (BI)
 - Power BI
@@ -131,7 +131,7 @@ The dashboard enables users to:
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The project uses the **Sample Superstore** dataset containing business information such as:
 
@@ -146,7 +146,7 @@ The project uses the **Sample Superstore** dataset containing business informati
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 The dashboard can be further improved by:
 
@@ -159,7 +159,7 @@ The dashboard can be further improved by:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Rajasri Jyothula**
 
